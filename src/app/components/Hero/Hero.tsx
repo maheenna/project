@@ -48,7 +48,7 @@ const Hero = () => {
           {/* Input */}
           <input type="email" placeholder='Enter your email' className='px-5 py-4 bg-white/80 w-[92%] md:w-[25%] outline-none rounded-2xl placeholder:text-black md:mr-6 mb-5' />
           {/* Subscribe button */}
-          <button className='md:px-8 px-[9.8rem] py-4 bg-[#2B88D9] transition-all duration-200 text-white rounded-lg font-bold'>Join waitlist</button>
+          <button className='md:px-8 px-[7rem] py-4 bg-[#2B88D9] transition-all duration-200 text-white rounded-lg font-bold'>Join waitlist</button>
         </div>
         
       </div>
